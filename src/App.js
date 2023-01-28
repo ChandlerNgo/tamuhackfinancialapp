@@ -1,11 +1,11 @@
 import './App.css';
+import './Header/Header.js';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>The Financial Ag</h1>
-        <h3></h3>
+      <header className="Header">
+        
       </header>
       <button className="button">Mr. Button</button>
     </div>
