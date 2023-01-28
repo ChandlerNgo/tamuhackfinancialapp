@@ -7,7 +7,7 @@ function App() {
         <h1>The Financial Ag</h1>
         <h3></h3>
       </header>
-      <button>Mr. Button</button>
+      <button color=''>Mr. Button</button>
     </div>
   );
 }
