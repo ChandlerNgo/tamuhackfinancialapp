@@ -1,12 +1,10 @@
 import './App.css';
-import './Header/Header.js';
+import Header from './Header/Header';
 
 function App() {
   return (
     <div className="App">
-      <header className="Header">
-        
-      </header>
+      <Header/>
       <button className="button">Mr. Button</button>
     </div>
   );
